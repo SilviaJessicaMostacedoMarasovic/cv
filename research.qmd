@@ -1,0 +1,75 @@
+---
+title: "Research"
+---
+
+## Research focus
+My research examines how learners and educators reason about complex socio-environmental systems—particularly water resources, sustainability, and decision-making under uncertainty—through discipline-based education research (DBER).
+
+## Peer-reviewed journal articles
+
+Mostacedo-Marasovic, S. J., Raub, K. R., McCay, D. H., & Forbes, C. T. (2025).  
+Instructors’ needs for teaching and mentoring undergraduate students in the water sciences.  
+*Journal of Contemporary Water Research and Education, 182*(2).  
+https://opensiuc.lib.siu.edu/jcwre/vol182/iss2/2/
+
+Mostacedo-Marasovic, S. J., Costello, B., Olsen, A. A., & Forbes, C. T. (2025).  
+Enhancing teachers’ capacities for technology-rich climate education: Studying the impact of a virtual professional development program for secondary science teachers.  
+*Contemporary Issues in Technology and Teacher Education, 25*(3).  
+https://citejournal.org/volume-25/issue-3-25/science/enhancing-teachers-capacities-for-technology-rich-climate-education-studying-the-impact-of-a-virtual-professional-development-program-for-secondary-science-teachers
+
+Mostacedo-Marasovic, S. J., Ahmad, J., Chakravarthy, S., McCullough, T., Park, J. Y., Forbes, C. T., & Eisma, J. (2025).  
+Enhancing undergraduate research readiness in water and energy: A one-week bootcamp integrating FAIR data principles, Python, and machine learning.  
+*Journal of College Science Teaching*, 1–8.  
+https://doi.org/10.1080/0047231X.2025.2508802
+
+Mostacedo-Marasovic, S. J., Costello, B., Olsen, A. A., & Forbes, C. T. (2025).  
+Supporting secondary teachers’ interest in adopting climate-related curricular resources.  
+*Journal of Geoscience Education*, 1–13.  
+https://doi.org/10.1080/10899995.2025.2506029
+
+Mostacedo-Marasovic, S. J., White, H. C., & Forbes, C. T. (2025).  
+The Food–Energy–Water Nexus: Using Hydroviz to support undergraduate students’ systems thinking about complex socio-hydrologic issues.  
+*Interdisciplinary Journal of Environmental and Science Education, 21*(2), e2506.  
+https://doi.org/10.29333/ijese/15901
+
+Mostacedo-Marasovic, S. J., White, H. C., & Forbes, C. T. (2024).  
+The Food–Energy–Water Nexus: Assessing undergraduate students’ decision making about complex socio-hydrologic issues supported by Hydroviz.  
+*Journal of Geoscience Education, 73*(3), 318–331.  
+https://doi.org/10.1080/10899995.2024.2358726
+
+Mostacedo-Marasovic, S. J., & Forbes, C. T. (2024).  
+Faculty development program about the Food–Energy–Water Nexus: Supporting faculty’s adoption of a curricular module and program evaluation.  
+*International Journal of Sustainability in Higher Education, 25*(8), 1837–1853.  
+https://doi.org/10.1108/IJSHE-06-2023-0262
+
+Mostacedo-Marasovic, S. J., Olsen, A. A., & Forbes, C. T. (2024).  
+Supporting secondary students’ understanding of Earth’s climate system and global climate change using EzGCM: A cross-sectional study.  
+*Journal of Science Education and Technology, 33*, 178–194.  
+https://doi.org/10.1007/s10956-023-10067-8
+
+Mostacedo-Marasovic, S. J., Mott, B. C., White, H. C., & Forbes, C. T. (2022).  
+Towards water literacy: Analysis of standards for teaching and learning about water on Earth.  
+*Journal of Geoscience Education, 71*(2), 192–207.  
+https://doi.org/10.1080/10899995.2022.2112490
+
+Mostacedo-Marasovic, S. J., Mott, B. C., White, H. C., & Forbes, C. T. (2022).  
+Towards water literacy: An interdisciplinary analysis of standards for teaching and learning about humans and water.  
+*Disciplinary and Interdisciplinary Science Education Research, 4*(25).  
+https://doi.org/10.1186/s43031-022-00065-y
+
+Mostacedo-Marasovic, S. J., Lally, D., Petitt, D. N., White, H., & Forbes, C. T. (2022).  
+Supporting undergraduate students’ developing water literacy during a global pandemic: A longitudinal study.  
+*Disciplinary and Interdisciplinary Science Education Research, 4*(7).  
+https://doi.org/10.1186/s43031-022-00049-y
+
+## Book chapter
+
+Olsen, A. A., Mostacedo-Marasovic, S. J., & Forbes, C. T. (2023).  
+Applying Rasch modeling to a global climate change concept knowledge assessment for secondary students.  
+In X. Liu & W. J. Boone (Eds.), *Advances in applications of Rasch measurement in science education*. Springer.  
+https://doi.org/10.1007/978-3-031-28776-3_8
+
+
+## Grants & Projects
+
+- **NSF IUSE (Co-PI)** — Undergraduate learning about stakeholder dynamics in water resource management using game theory.
