@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Silvia-Jessica Mostacedo-Marasovic"
+  title: "Dr. Silvia-Jessica Mostacedo-Marasovic"
   navbar:
     left:
       - href: index.qmd
