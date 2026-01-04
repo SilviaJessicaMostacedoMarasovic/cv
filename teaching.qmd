@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+---
+
+## Teaching philosophy (brief)
+My teaching is grounded in discipline-based education research (DBER) and inclusive, evidence-based pedagogy. I design learning experiences that prioritize sense-making, systems thinking, and decision-making with data and models, with particular attention to supporting culturally and linguistically diverse learners.
+
+## Course and curriculum development
+- Developed and coordinated an asynchronous undergraduate course: **ENVR 2316: Conservation of Natural Resources** (planned implementation Fall 2026)
+- Designed asynchronous modules on **hydrologic, climate, Earth, and planetary systems** using the **5E instructional model** and translanguaging approaches
+- Developed undergraduate modules on **decision-making and water economics** for an online asynchronous *Water in Society* course
+
+## Professional development
+- Delivered hybrid workshops on **R programming**, **learning analytics**, and **social network analysis**
+- Co-led faculty development workshops to support adoption of **Food–Energy–Water (FEW) Nexus** curricular resources
+
+## Teaching strengths
+- Asynchronous and hybrid instruction
+- Learning with models, data visualizations, and decision tools
+- Curriculum design for multilingual and emergent bilingual learners
+- Transparent assessment and feedback practices
