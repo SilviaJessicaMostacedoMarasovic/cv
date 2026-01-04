@@ -1,5 +1,5 @@
 ---
-title: "Silvia-Jessica Mostacedo-Marasovic"
+title: "Dr. Silvia-Jessica Mostacedo-Marasovic"
 subtitle: "Discipline-Based Education Research | Water & Sustainability"
 format:
   html:
