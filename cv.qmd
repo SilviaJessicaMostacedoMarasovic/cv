@@ -1,5 +1,5 @@
 ---
-title: "Silvia Jessica Mostacedo-Marasovic"
+title: "Silvia-Jessica Mostacedo-Marasovic"
 subtitle: "Discipline-Based Education Research | Water & Sustainability"
 format:
   html:
@@ -8,9 +8,9 @@ format:
 ---
 
 ## Contact
-- Email: silvajessica.mostacedomaraso@uta.edu
-- LinkedIn: www.linkedin.com/in/jessicamostacedo
-- ORCID: 0000-0001-6860-719X
+- Email: [silvajessica.mostacedomaraso@uta.edu](mailto:silvajessica.mostacedomaraso@uta.edu)
+- LinkedIn: [linkedin.com/in/jessicamostacedo](https://www.linkedin.com/in/jessicamostacedo)
+- ORCID: [0000-0001-6860-719X](https://orcid.org/0000-0001-6860-719X)
 - Location: Arlington, Texas
 
 ## Summary
