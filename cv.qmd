@@ -14,7 +14,7 @@ format:
 - Location: Arlington, Texas
 
 ## Summary
-Discipline-Based Education Research scholar and water-resources management practitioner studying how learners understand water systems, sustainability, and decision-making. Co-PI on an NSF IUSE project using game theory to support undergraduate learning about stakeholder dynamics in water systems. :contentReference[oaicite:0]{index=0}
+Discipline-Based Education Research scholar and water-resources management practitioner studying how learners understand water systems, sustainability, and decision-making. Co-PI on an NSF IUSE project using game theory to support undergraduate learning about stakeholder dynamics in water systems.
 
 ## Education
 - Ph.D., Earth and Environmental Sciences, University of Texas at Arlington (2024)
