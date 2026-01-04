@@ -1,5 +1,14 @@
 ---
-title: "Curriculum Vitae"
+title: "Home"
 ---
 
-{{< include cv.qmd >}}
+## Silvia Jessica Mostacedo-Marasovic
+
+**Discipline-Based Education Research | Water & Sustainability**
+
+I am a discipline-based education research (DBER) scholar and water-resources management practitioner studying how learners understand water systems, sustainability, and decision-making. My work bridges geoscience education, environmental sustainability, and evidence-based instructional design.
+
+### Contact
+- Email: [silvajessica.mostacedomaraso@uta.edu](mailto:silvajessica.mostacedomaraso@uta.edu)
+- LinkedIn: [linkedin.com/in/jessicamostacedo](https://www.linkedin.com/in/jessicamostacedo)
+- ORCID: [0000-0001-6860-719X](https://orcid.org/0000-0001-6860-719X)
