@@ -11,7 +11,6 @@ format:
 - Email: [silvajessica.mostacedomaraso@uta.edu](mailto:silvajessica.mostacedomaraso@uta.edu)
 - LinkedIn: [linkedin.com/in/jessicamostacedo](https://www.linkedin.com/in/jessicamostacedo)
 - ORCID: [0000-0001-6860-719X](https://orcid.org/0000-0001-6860-719X)
-- Location: Arlington, Texas
 
 ## Summary
 Discipline-Based Education Research scholar and water-resources management practitioner studying how learners understand water systems, sustainability, and decision-making. Co-PI on an NSF IUSE project using game theory to support undergraduate learning about stakeholder dynamics in water systems.
