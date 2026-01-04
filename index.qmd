@@ -4,7 +4,7 @@ title: "Home"
 
 <img src="headshot.jpg" alt="Headshot of Silvia-Jessica Mostacedo-Marasovic" style="width:180px; float:right; margin-left:20px; margin-bottom:10px; border-radius:50%;">
 
-## Silvia-Jessica Mostacedo-Marasovic
+## Dr. Silvia-Jessica Mostacedo-Marasovic
 
 **Discipline-Based Education Research | Water & Sustainability**
 
