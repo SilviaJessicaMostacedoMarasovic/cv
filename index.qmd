@@ -2,4 +2,4 @@
 title: "Curriculum Vitae"
 ---
 
-```{include=cv.qmd}
+{{< include cv.qmd >}}
