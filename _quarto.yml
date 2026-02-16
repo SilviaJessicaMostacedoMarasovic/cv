@@ -3,6 +3,9 @@ project:
 
 website:
   title: "Dr. Silvia-Jessica Mostacedo-Marasovic"
+    site-description: "DBER researcher at UTA studying water literacy, sustainability education, and decision-making using learning analytics and game theory."
+  open-graph: true
+  twitter-card: true
   navbar:
     left:
       - href: index.qmd
