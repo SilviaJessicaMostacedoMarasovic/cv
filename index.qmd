@@ -1,30 +1,37 @@
 ---
 title: "Home"
+description: "Silvia Jessica Mostacedo-Marasovic is a DBER researcher at the University of Texas at Arlington studying water literacy, sustainability education, and decision-making using game theory and learning analytics."
 ---
 
 <img src="headshot.jpg" alt="Headshot of Silvia-Jessica Mostacedo-Marasovic" style="width:180px; float:right; margin-left:20px; margin-bottom:10px; border-radius:50%;">
 
 ## Dr. Silvia-Jessica Mostacedo-Marasovic
 
-**Discipline-Based Education Research | Water & Sustainability**
+**Discipline-Based Education Research | Water & Sustainability | Sustainability Education |Decision-Making**
 
-I am a discipline-based education research (DBER) scholar and water-resources management practitioner studying how learners understand water systems, sustainability, and decision-making. My work bridges geoscience education, environmental sustainability, and evidence-based instructional design.
+I study how people learn to make **better decisions about shared resources**—especially **water**.  
+My work focuses on how students and educators understand **complex systems** (like watersheds and climate) and how they weigh **tradeoffs** when decisions affect many people.
 
-### Contact
-- Email: [silvajessica.mostacedomaraso@uta.edu](mailto:silvajessica.mostacedomaraso@uta.edu)
-- LinkedIn: [linkedin.com/in/jessicamostacedo](https://www.linkedin.com/in/jessicamostacedo)
-- ORCID: [0000-0001-6860-719X](https://orcid.org/0000-0001-6860-719X)
+I design and study learning tools that help learners:
+- see the “big picture” of water systems,
+- understand different stakeholder perspectives,
+- use data and models to support decisions.
+
+## Current Appointment
+**Postdoctoral Research Associate**, University of Texas at Arlington (UTA)  
+Higher Education, Adult Learning & Organizational Studies; Earth & Environmental Sciences
 
 ## Education
 - **Ph.D.**, Earth and Environmental Sciences — University of Texas at Arlington
 - **M.S.**, Sustainable Development Practice — University of Florida
 - **B.S.**, Socio-Economic Development and Environment — Zamorano University
 
-## Current Appointment
-**Postdoctoral Research Associate**  
-University of Texas at Arlington  
-Higher Education, Adult Learning & Organizational Studies  
-Department of Earth and Environmental Sciences
+### Contact
+- Email: [silvajessica.mostacedomaraso@uta.edu](mailto:silvajessica.mostacedomaraso@uta.edu)
+- LinkedIn: [linkedin.com/in/jessicamostacedo](https://www.linkedin.com/in/jessicamostacedo)
+- ORCID: [0000-0001-6860-719X](https://orcid.org/0000-0001-6860-719X)
 
-## Previous Appointments
-- Research and evaluation roles in STEM education, water resources, and sustainability education
+---
+
+### Keywords (for search)
+Water literacy · sustainability education · geoscience education · discipline-based education research · learning analytics · systems thinking · decision-making · game theory · water resources education
