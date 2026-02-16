@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Dr. Silvia-Jessica Mostacedo-Marasovic"
-  site-description: "DBER researcher at UTA studying water literacy, sustainability education, decision-making, systems thinking, and learning analytics in socio-environmental systems."
+  description: "DBER researcher at UTA studying water literacy, sustainability education, decision-making, systems thinking, and learning analytics in socio-environmental systems."
   open-graph: true
   twitter-card: true
   navbar:
