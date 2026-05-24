@@ -18,6 +18,8 @@ website:
         text: Teaching
       - href: service.qmd
         text: Service
+      - href: practice.qmd
+        text: Practice
 
 format:
   html:
