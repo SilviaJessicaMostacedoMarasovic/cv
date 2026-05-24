@@ -1,21 +1,34 @@
 ---
 title: "Teaching"
+description: "Teaching, mentoring, and professional development in environmental science, water resources, sustainability education, and STEM education research."
 ---
 
-## Teaching philosophy (brief)
-My teaching is grounded in discipline-based education research (DBER) and inclusive, evidence-based pedagogy. I design learning experiences that prioritize sense-making, systems thinking, and decision-making with data and models, with particular attention to supporting culturally and linguistically diverse learners.
+## Teaching Approach
+My teaching is grounded in discipline-based education research (DBER), inclusive pedagogy, and the use of real-world environmental problems to support learning. I design learning experiences that help students connect science concepts to decisions people make about water, climate, sustainability, and shared resources.
+I emphasize:
+- systems thinking,
+- evidence-based decision-making,
+- data interpretation,
+- stakeholder perspectives,
+- and clear communication of complex environmental issues.
 
-## Course and curriculum development
-- Developed and coordinated an asynchronous undergraduate course: **ENVR 2316: Conservation of Natural Resources** (planned implementation Fall 2026)
-- Designed asynchronous modules on **hydrologic, climate, Earth, and planetary systems** using the **5E instructional model** and translanguaging approaches
-- Developed undergraduate modules on **decision-making and water economics** for an online asynchronous *Water in Society* course
+## Course and Curriculum Design
+- Designed and co-developed asynchronous undergraduate instructional modules on hydrologic, climate, Earth, and planetary systems using the 5E instructional model and translanguaging approaches.
+- Developed undergraduate modules on decision-making and water economics for an asynchronous *Water in Society* course.
+- Leading the development of curriculum materials for **Summer Workshop in Water Resources Management** and **ENVR 2316: Conservation of Natural Resources**, an asynchronous undergraduate course focused on water resources management, decision-making, and game theory.
 
-## Professional development
-- Delivered hybrid workshops on **R programming**, **learning analytics**, and **social network analysis**
-- Co-led faculty development workshops to support adoption of **Food–Energy–Water (FEW) Nexus** curricular resources
+## Teaching and Professional Development Experience
+- Designed and delivered hybrid professional development workshops for faculty, postdoctoral scholars, and graduate students on R programming, learning analytics, and social network analysis.
+- Co-facilitated professional development workshops supporting adoption of Food–Energy–Water Nexus curricular resources and Hydroviz in undergraduate education.
+- Served as a teaching assistant for an undergraduate *Water in Society* course, supporting grading, feedback, and student assessment.
 
-## Teaching strengths
-- Asynchronous and hybrid instruction
-- Learning with models, data visualizations, and decision tools
-- Curriculum design for multilingual and emergent bilingual learners
-- Transparent assessment and feedback practices
+## Mentoring
+I mentor undergraduate and graduate students in research design, qualitative and quantitative methods, data management, R scripting, curriculum development, evaluation, and scholarly writing.
+
+## Teaching Areas
+- Environmental science and sustainability education
+- Water resources and socio-hydrologic systems
+- Systems thinking and decision-making
+- Learning analytics and data-intensive research workflows
+- Mixed methods research
+- Science teacher education and pedagogical content knowledge
