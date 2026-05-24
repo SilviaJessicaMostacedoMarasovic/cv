@@ -1,5 +1,6 @@
 ---
 title: "Home"
+description: "Silvia Jessica Mostacedo-Marasovic is a discipline-based education research scholar studying water literacy, sustainability education, systems thinking, and decision-making in socio-environmental systems."
 ---
 
 <img src="headshot.jpg" alt="Headshot of Silvia-Jessica Mostacedo-Marasovic" style="width:180px; float:right; margin-left:20px; margin-bottom:10px; border-radius:50%;">
@@ -8,12 +9,18 @@ title: "Home"
 
 **Discipline-Based Education Research | Water & Sustainability | Sustainability Education | Decision-Making**
 
-I study how people learn to make better decisions about shared resources, especially water. My work focuses on how students and educators understand complex systems (like watersheds and climate) and how they weigh tradeoffs when decisions affect many people.
+**Discipline-Based Education Research | Water Systems | Sustainability Education | Decision-Making**
 
-I design and study learning tools that help learners:
-- see the “big picture” of water systems,
-- understand different stakeholder perspectives,
-- use data and models to support decisions.
+I am a discipline-based education research (DBER) scholar studying how learners develop the capacity to understand and make decisions about **complex socio-environmental systems**, particularly water resources.
+
+My research program integrates **water literacy, systems thinking, stakeholder reasoning, structured decision-making, and learning analytics** to investigate how students and educators reason about shared natural resources under conditions of uncertainty.
+
+I develop and study instructional approaches that help learners:
+- understand water systems as interconnected human–environment systems,
+- evaluate competing stakeholder perspectives and tradeoffs,
+- use evidence, models, and data to support decision-making.
+
+My work spans undergraduate education, teacher and faculty professional development, environmental literacy, and sustainability education.
 
 ## Current Appointment
 - **Postdoctoral Research Associate**
@@ -29,3 +36,4 @@ I design and study learning tools that help learners:
 - Email: [silvajessica.mostacedomaraso@uta.edu](mailto:silvajessica.mostacedomaraso@uta.edu)
 - LinkedIn: [linkedin.com/in/jessicamostacedo](https://www.linkedin.com/in/jessicamostacedo)
 - ORCID: [0000-0001-6860-719X](https://orcid.org/0000-0001-6860-719X)
+- Google Scholar: [Google scholar] (https://scholar.google.com/citations?user=cLUXu38AAAAJ&hl=en&inst=1297495080519272923&authuser=1)
