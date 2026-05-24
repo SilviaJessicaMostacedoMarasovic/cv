@@ -1,13 +1,10 @@
 ---
 title: "Home"
-description: "Silvia Jessica Mostacedo-Marasovic is a discipline-based education research scholar studying water literacy, sustainability education, systems thinking, and decision-making in socio-environmental systems."
 ---
 
 <img src="headshot.jpg" alt="Headshot of Silvia-Jessica Mostacedo-Marasovic" style="width:180px; float:right; margin-left:20px; margin-bottom:10px; border-radius:50%;">
 
 ## Dr. Silvia-Jessica Mostacedo-Marasovic
-
-**Discipline-Based Education Research | Water & Sustainability | Sustainability Education | Decision-Making**
 
 **Discipline-Based Education Research | Water Systems | Sustainability Education | Decision-Making**
 
@@ -34,6 +31,6 @@ My work spans undergraduate education, teacher and faculty professional developm
 
 ## Contact
 - Email: [silvajessica.mostacedomaraso@uta.edu](mailto:silvajessica.mostacedomaraso@uta.edu)
-- LinkedIn: [linkedin.com/in/jessicamostacedo](https://www.linkedin.com/in/jessicamostacedo)
+- Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=cLUXu38AAAAJ)
 - ORCID: [0000-0001-6860-719X](https://orcid.org/0000-0001-6860-719X)
-- Google Scholar: [Google scholar] (https://scholar.google.com/citations?user=cLUXu38AAAAJ&hl=en&inst=1297495080519272923&authuser=1)
+- LinkedIn: [linkedin.com/in/jessicamostacedo](https://www.linkedin.com/in/jessicamostacedo)
