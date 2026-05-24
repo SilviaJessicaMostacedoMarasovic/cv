@@ -1,6 +1,5 @@
 ---
 title: "Teaching"
-description: "Teaching, mentoring, and professional development in environmental science, water resources, sustainability education, and STEM education research."
 ---
 
 ## Teaching Approach
