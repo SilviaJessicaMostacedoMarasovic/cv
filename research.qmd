@@ -2,10 +2,23 @@
 title: "Research"
 ---
 
-## Research focus
-My research examines how learners and educators reason about complex socio-environmental systems—particularly water resources, sustainability, and decision-making under uncertainty—through discipline-based education research (DBER).
+## Research Program
+
+My research examines how learners, educators, and institutions develop the capacity to understand, teach, and make decisions about complex socio-environmental systems. I integrate discipline-based education research, mixed methods research, and evaluation approaches to study learning, instructional practice, and educational change across STEM and sustainability education contexts.
+
+## Research Strands
+### Water Literacy, Systems Thinking, and Decision-Making
+I study how learners reason about water resources and other socio-environmental systems involving uncertainty, tradeoffs, and multiple stakeholders. This work examines water literacy, systems thinking, sustainability education, stakeholder reasoning, and structured decision-making, including the use of models, simulations, multi-criteria decision-making, and game theory in environmental and water education.
+
+### Pedagogical Content Knowledge, Teacher Learning, and Instructional Design
+I investigate how undergraduate students who will become elementary teachers develop the knowledge, practices, and instructional approaches needed to support meaningful learning in science and environmental education. This strand includes research on pedagogical content knowledge (PCK), professional development, curriculum design, translanguaging approaches, hydrologic, climate and Earth systems education, and adoption of instructional resources.
+
+### Project Evaluation, Educational Systems, and Institutional Learning
+I conduct mixed-methods evaluation research examining educational programs, collaborative initiatives, and institutional systems. This work includes studies of program implementation, organizational learning, professional development, workforce development partnerships, collaboration networks, and educational outcomes using surveys, interviews, learning analytics, and social network analysis.
 
 ## Peer-reviewed journal articles
+
+Liu, J., Hoover, K. S., **Mostacedo-Marasovic, S. J.**, Suravarjhula, S., Linga, S., Forbes, C. T., & Moise, T. (2026). Investigating the longitudinal effectiveness of a regional semiconductor consortium: a mixed-methods study of members’ perspectives and student enrollment trends. *Journal of Workplace Learning, 38*(2), 145-161. <https://doi.org/10.1108/JWL-07-2025-0248>
 
 **Mostacedo-Marasovic, S. J.**, Raub, K. R., McCay, D. H., & Forbes, C. T. (2025). Instructors’ needs for teaching and mentoring undergraduate students in the water sciences. *Journal of Contemporary Water Research and Education, 182*(2). <https://opensiuc.lib.siu.edu/jcwre/vol182/iss2/2/>
 
