@@ -13,8 +13,11 @@ I am a discipline-based education research (DBER) scholar studying how learners 
 My research program integrates **water literacy, systems thinking, stakeholder reasoning, structured decision-making, and learning analytics** to investigate how students and educators reason about shared natural resources under conditions of uncertainty.
 
 I develop and study instructional approaches that help learners:
+
 - understand water systems as interconnected human–environment systems,
+
 - evaluate competing stakeholder perspectives and tradeoffs,
+
 - use evidence, models, and data to support decision-making.
 
 My work spans undergraduate education, teacher and faculty professional development, environmental literacy, and sustainability education.
@@ -31,8 +34,11 @@ My work spans undergraduate education, teacher and faculty professional developm
 
 ## Featured Funding
 **National Science Foundation (NSF IUSE; DUE #2517117)** — **Co-Principal Investigator**
+
 *Enhancing Undergraduate Education About Stakeholder Competition and Cooperation in Water Systems Using Game Theory*  
+
 PI: Cory T. Forbes | Awarded: $403,471 | 2025–2028
+
 This project investigates undergraduate learning about water resources management, stakeholder reasoning, structured decision-making, and game theory in socio-environmental systems.
 
 ## Contact
