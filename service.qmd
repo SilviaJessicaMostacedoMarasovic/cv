@@ -2,18 +2,34 @@
 title: "Service"
 ---
 
-## Professional service and leadership
+## Professional Service and Leadership
+### Geoscience Education Research Community Leadership
+**Geoscience Education Research Working Group Leader**  
+*American Geophysical Union (AGU) – Education Section*
+I co-organize and facilitate a monthly AGU–National Association of Geoscience Teachers (NAGT) Knowledge Exchange series that supports scholarly exchange, mentoring, and community building in geoscience education research.
 
-- **Geoscience Education Research Working Group Leader**, American Geophysical Union (AGU)  
-  Co-organizer of a monthly AGU–National Association of Geoscience Teachers (NAGT) Knowledge Exchange series supporting national scholarly exchange and mentoring in geoscience education research.
+### Scholarly Review and Peer Review Service
+I serve as a peer reviewer for journals in science education and geoscience education research, including:
+- *Journal of Science Education and Technology (JSET)*
+- *Disciplinary and Interdisciplinary Science Education Research (DISER)*
 
-- **Conference and workshop service**  
-  Contributor to national and international conferences in geoscience, science education, and sustainability education, including Earth Educators Rendezvous, AGU, GSA Connects, and NARST.
+### Academic Leadership and Community Building
+**Lead Postdoctoral Fellow / Organizer**  
+*University of Texas System*
+I contribute to system-wide professional development initiatives by supporting the organization of University of Texas System postdoctoral symposia, including coordination of scholarly presentations and research exchange activities.
 
-- **Manuscript and proposal review**  
-  Reviewer for peer-reviewed journals in geoscience education, sustainability education, and STEM education research, as well as external grant and program evaluations.
+## Mentoring and Professional Engagement
+My service activities emphasize mentoring, interdisciplinary collaboration, and professional community development across STEM education, sustainability, and geoscience education contexts.
 
-## Academic community engagement
+These efforts include:
+- mentoring and scholarly exchange,
+- interdisciplinary research collaboration,
+- workshop and academic event coordination,
+- and support for professional development communities.
 
-- Mentoring of graduate and undergraduate researchers in qualitative and quantitative methods, data analysis, and curriculum development.
-- Participation in interdisciplinary research teams spanning geoscience, education, and sustainability.
+## Areas of Service
+- Geoscience education research (GER)
+- STEM education and discipline-based education research (DBER)
+- Faculty and postdoctoral professional development
+- Interdisciplinary academic collaboration
+- Scholarly peer review and research dissemination
