@@ -25,7 +25,7 @@ My teaching and curriculum development experience spans undergraduate instructio
 
 Selected examples include:
 
-- Development of **ENVR 2316: Conservation of Natural Resources**, an asynchronous undergraduate course integrating sustainability, game theory, and multi-criteria decision-making for natural resource management.
+- Development of **Summer Workshop in Water Resources Management** and **ENVR 2316: Conservation of Natural Resources**, an asynchronous undergraduate course integrating sustainability, game theory, and multi-criteria decision-making for natural resource management.
 - Design of undergraduate instructional modules on hydrologic, climate, Earth, and planetary systems using the 5E instructional model and translanguaging approaches.
 - Development of undergraduate modules on decision-making and water economics within the interdisciplinary *Water in Society* course.
 - Instruction in statistical quality control for environmental engineering students using quantitative reasoning and project-based learning approaches.
