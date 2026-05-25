@@ -2,21 +2,36 @@
 title: "Teaching"
 ---
 
+## Teaching Philosophy
+
+My teaching is guided by the concept of **cachativa**—being resourceful, proactive, adaptable, and able to navigate uncertainty thoughtfully. I strive to help learners develop the capacity to engage with complex problems, recognize the strengths and limits of their current understanding, and make informed, evidence-based decisions.
+
+Across educational contexts, my goal is to support learners in developing transferable ways of thinking that help them navigate complexity, collaborate with others, and connect knowledge to real-world sustainability challenges.
+
 ## Teaching Approach
 My teaching is grounded in discipline-based education research (DBER), inclusive pedagogy, and the use of real-world environmental problems to support learning. I design learning experiences that help students connect science concepts to decisions people make about water, climate, sustainability, and shared resources.
+
 I emphasize:
-- systems thinking,
+
+- systems thinking and socio-environmental reasoning,
 - evidence-based decision-making,
-- data interpretation,
-- stakeholder perspectives,
-- and clear communication of complex environmental issues.
+- active and applied learning,
+- modeling, data, and analytical tools,
+- inclusive and supportive learning environments.
 
 ## Course and Curriculum Design
-- Designed and co-developed asynchronous undergraduate instructional modules on hydrologic, climate, Earth, and planetary systems using the 5E instructional model and translanguaging approaches.
-- Developed undergraduate modules on decision-making and water economics for an asynchronous *Water in Society* course.
-- Leading the development of curriculum materials for **Summer Workshop in Water Resources Management** and **ENVR 2316: Conservation of Natural Resources**, an asynchronous undergraduate course focused on water resources management, decision-making, and game theory.
+
+My teaching and curriculum development experience spans undergraduate instruction, asynchronous course design, teacher preparation, and faculty development.
+
+Selected examples include:
+
+- Development of **ENVR 2316: Conservation of Natural Resources**, an asynchronous undergraduate course integrating sustainability, game theory, and multi-criteria decision-making for natural resource management.
+- Design of undergraduate instructional modules on hydrologic, climate, Earth, and planetary systems using the 5E instructional model and translanguaging approaches.
+- Development of undergraduate modules on decision-making and water economics within the interdisciplinary *Water in Society* course.
+- Instruction in statistical quality control for environmental engineering students using quantitative reasoning and project-based learning approaches.
 
 ## Teaching and Professional Development Experience
+
 - Designed and delivered hybrid professional development workshops for faculty, postdoctoral scholars, and graduate students on R programming, learning analytics, and social network analysis.
 - Co-facilitated professional development workshops supporting adoption of Food–Energy–Water Nexus curricular resources and Hydroviz in undergraduate education.
 - Served as a teaching assistant for an undergraduate *Water in Society* course, supporting grading, feedback, and student assessment.
@@ -25,9 +40,10 @@ I emphasize:
 I mentor undergraduate and graduate students in research design, qualitative and quantitative methods, data management, R scripting, curriculum development, evaluation, and scholarly writing.
 
 ## Teaching Areas
-- Environmental science and sustainability education
-- Water resources and socio-hydrologic systems
+
+- Sustainability and environmental science education
+- Water resources and socio-environmental systems
 - Systems thinking and decision-making
-- Learning analytics and data-intensive research workflows
-- Mixed methods research
+- Learning analytics and research methods
 - Science teacher education and pedagogical content knowledge
+- Faculty development and professional learning
