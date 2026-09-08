@@ -1,5 +1,5 @@
 ---
-title: "Funding"
+title: "Funding, Fellowships, and Honors"
 ---
 
 ## Extramural Funding
@@ -20,6 +20,10 @@ This NSF-funded project examines undergraduate learning about water resources ma
 ---
 
 ## Fellowships and Honors
+### Geoscience Education Research Early Career Award — National Association of Geoscience Teachers (2026)
+
+Recognition of outstanding early-career contributions to geoscience education research (GER), including scholarly research, teaching applications, collaboration, mentorship, and capacity building within the GER community.
+
 ### Hispanic Serving Research Universities (HSRU) Postdoctoral Fellowship
 
 **Postdoctoral Fellow (2025–2026)**
